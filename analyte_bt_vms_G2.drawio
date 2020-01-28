@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-28T00:46:40.264Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36" etag="Z0quLRQ8nhyX2W-zLf0D" version="12.5.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-28T01:18:58.405Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36" etag="bYrqBVHYUtM--KsLnKI0" version="12.5.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
         <mxCell id="14" value="FALSE" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="340" y="320" width="40" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="15" value="แบตเตอรี่สำรอง&lt;br&gt;( BU )&lt;br&gt;คงเหลือ&lt;br&gt;50-100%" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="15" value="แบตเตอรี่สำรอง&lt;br&gt;( BU + MTU )&lt;br&gt;คงเหลือ&lt;br&gt;50-100%" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="449.75" y="440" width="140" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="17" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="4" target="13" edge="1">
@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="18" value="material&#xa;balance" style="shape=mxgraph.flowchart.predefined_process;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="635" width="190" height="90" as="geometry"/>
+          <mxGeometry x="440" y="990" width="190" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="19" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.905;exitY=0.5;exitPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" parent="1" source="13" target="18" edge="1">
           <mxGeometry width="100" height="100" as="geometry">
@@ -138,7 +138,10 @@
         <mxCell id="38" value="create&#xa;final&#xa;report" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="240.5" y="1730" width="159" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="39" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: small ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: small ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;ExternalVoltage&lt;/span&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: small ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;&quot;&lt;br&gt;เตรียมข้อมูลย้อนหลัง 5 วัน&lt;/span&gt;" style="shape=mxgraph.flowchart.predefined_process;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
+        <mxCell id="6H0UAOoWNLqQX3c4M_eM-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#003366;fontColor=#003366;" edge="1" parent="1" source="39" target="6H0UAOoWNLqQX3c4M_eM-67">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="39" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: small ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: small ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;ExternalVoltage&lt;/span&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: small ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;&quot;&lt;br&gt;เตรียมข้อมูล&lt;br&gt;ย้อนหลัง &lt;br&gt;ไม่ต่ำกว่า 5 วัน&lt;/span&gt;" style="shape=mxgraph.flowchart.predefined_process;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="624.5" y="510" width="190" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="40" value="end" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
@@ -187,7 +190,7 @@
           <mxGeometry x="640" y="1234" width="40" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="51" value="iron out&#xa;obscurities &#xa;with investor" style="shape=mxgraph.flowchart.paper_tape;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="750" width="150" height="81" as="geometry"/>
+          <mxGeometry x="649.75" y="980" width="150" height="81" as="geometry"/>
         </mxCell>
         <mxCell id="53" value="yes" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="321" y="1680" width="40" height="26" as="geometry"/>
@@ -201,13 +204,19 @@
         <mxCell id="6H0UAOoWNLqQX3c4M_eM-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#003366;" edge="1" parent="1" source="6H0UAOoWNLqQX3c4M_eM-57" target="6H0UAOoWNLqQX3c4M_eM-61">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+        <mxCell id="6H0UAOoWNLqQX3c4M_eM-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#003366;fontColor=#003366;" edge="1" parent="1" source="6H0UAOoWNLqQX3c4M_eM-57" target="15">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="6H0UAOoWNLqQX3c4M_eM-57" value="&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: small ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;&quot;&lt;/span&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: small ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;ExternalVoltage&lt;/span&gt;&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: small ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;&quot;&lt;br&gt;น้อยกว่า&lt;br&gt;&amp;lt;= 12.3 V&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="320" width="159.5" height="78" as="geometry"/>
         </mxCell>
-        <mxCell id="6H0UAOoWNLqQX3c4M_eM-59" value="แบตเตอรี่สำรอง&lt;br&gt;( BU )&lt;br&gt;คงเหลือ&lt;br&gt;ร้อยละ 50" style="shape=mxgraph.flowchart.merge_or_storage;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="490" width="130" height="80.5" as="geometry"/>
+        <mxCell id="6H0UAOoWNLqQX3c4M_eM-59" value="เฝ้าระวัง&lt;br&gt;แบตเตอรี่ถูกใช้งาน&lt;br&gt;ในสภาวะไม่เหมาะสม&lt;br&gt;อาจเป็นสาเหตุ&lt;br&gt;ทำให้แบตเตอรี่เสื่อม" style="shape=mxgraph.flowchart.merge_or_storage;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="737" width="130" height="80.5" as="geometry"/>
         </mxCell>
-        <mxCell id="6H0UAOoWNLqQX3c4M_eM-61" value="แบตเตอรี่สำรอง&lt;br&gt;( BU )&lt;br&gt;คงเหลือ&lt;br&gt;0-49%&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: small ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+        <mxCell id="6H0UAOoWNLqQX3c4M_eM-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#003366;fontColor=#003366;" edge="1" parent="1" source="6H0UAOoWNLqQX3c4M_eM-61" target="39">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="6H0UAOoWNLqQX3c4M_eM-61" value="แบตเตอรี่สำรอง&lt;br&gt;( BU + MTU )&lt;br&gt;คงเหลือ&lt;br&gt;0-49%&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: small ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="398" width="159" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="6H0UAOoWNLqQX3c4M_eM-65" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -215,6 +224,33 @@
         </mxCell>
         <mxCell id="6H0UAOoWNLqQX3c4M_eM-66" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="1663" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="6H0UAOoWNLqQX3c4M_eM-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#003366;fontColor=#003366;" edge="1" parent="1" source="6H0UAOoWNLqQX3c4M_eM-67" target="6H0UAOoWNLqQX3c4M_eM-59">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="6H0UAOoWNLqQX3c4M_eM-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#003366;fontColor=#003366;" edge="1" parent="1" source="6H0UAOoWNLqQX3c4M_eM-67" target="6H0UAOoWNLqQX3c4M_eM-73">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="6H0UAOoWNLqQX3c4M_eM-78" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#003366;fontColor=#003366;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="6H0UAOoWNLqQX3c4M_eM-67" target="6H0UAOoWNLqQX3c4M_eM-76">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="6H0UAOoWNLqQX3c4M_eM-67" value="&quot;กราฟแรงดันไฟฟ้า&quot;&lt;br&gt;&amp;nbsp;แนวโน้มถดถอย" style="shape=mxgraph.flowchart.decision;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="630" width="159.5" height="78" as="geometry"/>
+        </mxCell>
+        <mxCell id="6H0UAOoWNLqQX3c4M_eM-73" value="แบตเตอรี่สำรอง&lt;br&gt;มีการชาร์จกระแสไฟฟ้า&lt;br&gt;เป็นครั้งคราว&lt;br&gt;แนะนำให้ชาร์จสม่ำเสมอ" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="649.75" y="737" width="140" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="6H0UAOoWNLqQX3c4M_eM-75" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#003366;" vertex="1" parent="1">
+          <mxGeometry x="559.5" y="1703" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="6H0UAOoWNLqQX3c4M_eM-76" value="วันที่&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Volt&lt;br&gt;&lt;br&gt;1 ม.ค.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;12.50&lt;br&gt;2 ม.ค.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;12.45&lt;br&gt;3 ม.ค.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;12.40&lt;br&gt;4 ม.ค.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;12.35&lt;br&gt;5 ม.ค.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;12.30&lt;br&gt;6 ม.ค.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;12.20" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#003366;dx=51;dy=27;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="499.5" y="630" width="100" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="6H0UAOoWNLqQX3c4M_eM-77" value="" style="endArrow=none;dashed=1;html=1;strokeColor=#003366;fontColor=#003366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="2090" as="sourcePoint"/>
+            <mxPoint x="330" y="2040" as="targetPoint"/>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
