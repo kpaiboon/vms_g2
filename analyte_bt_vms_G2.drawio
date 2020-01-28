@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-28T04:04:39.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 OPR/66.0.3515.44" etag="CabwnqH8SG6kReZrOGTT" version="12.5.8" type="github">
+<mxfile host="www.draw.io" modified="2020-01-28T04:05:48.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 OPR/66.0.3515.44" etag="jSo71TCF5Z8L4kyR4koE" version="12.5.8" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="873" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1855" dy="1770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -85,9 +85,6 @@
         </mxCell>
         <mxCell id="6H0UAOoWNLqQX3c4M_eM-61" value="แบตเตอรี่สำรอง&lt;br&gt;( BU + MTU )&lt;br&gt;คงเหลือ&lt;br&gt;0-49%&lt;span style=&quot;color: rgb(34 , 34 , 34) ; font-family: &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: small ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="378" width="159" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="6H0UAOoWNLqQX3c4M_eM-66" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="810" y="1663" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="6H0UAOoWNLqQX3c4M_eM-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#003366;fontColor=#003366;" parent="1" source="6H0UAOoWNLqQX3c4M_eM-67" target="6H0UAOoWNLqQX3c4M_eM-59" edge="1">
           <mxGeometry relative="1" as="geometry"/>
