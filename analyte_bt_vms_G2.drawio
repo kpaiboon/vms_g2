@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-30T04:57:07.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 OPR/66.0.3515.44" etag="FyfcmSLGQTz4EmQK8L07" version="12.6.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-30T04:57:33.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 OPR/66.0.3515.44" etag="iJZ4VLF_7KejSKfphhGD" version="12.6.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="742" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6H0UAOoWNLqQX3c4M_eM-59" value="เฝ้าระวัง&lt;br&gt;แบตเตอรี่ถูกใช้งาน&lt;br&gt;ในสภาวะไม่เหมาะสม&lt;br&gt;อาจเป็นสาเหตุ&lt;br&gt;ทำให้แบตเตอรี่เสื่อม" style="shape=mxgraph.flowchart.merge_or_storage;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;labelBackgroundColor=#ffffff;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="6H0UAOoWNLqQX3c4M_eM-59" value="เฝ้าระวัง&lt;br&gt;แบตเตอรี่ถูกใช้งาน&lt;br&gt;ในสภาวะไม่เหมาะสม&lt;br&gt;อาจเป็นสาเหตุ&lt;br&gt;ทำให้แบตเตอรี่เสื่อม" style="shape=mxgraph.flowchart.merge_or_storage;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;labelBackgroundColor=#ffffff;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="620" y="717" width="150" height="103" as="geometry"/>
         </mxCell>
         <mxCell id="6H0UAOoWNLqQX3c4M_eM-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#003366;fontColor=#003366;" parent="1" source="6H0UAOoWNLqQX3c4M_eM-61" target="39" edge="1">
