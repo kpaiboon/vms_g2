@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-30T04:47:20.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 OPR/66.0.3515.44" etag="U3oeJLsrZ-rlvCFfMa1i" version="12.6.1" type="github">
+<mxfile host="www.draw.io" modified="2020-01-30T04:57:07.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 OPR/66.0.3515.44" etag="FyfcmSLGQTz4EmQK8L07" version="12.6.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="742" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="15" value="แบตเตอรี่สำรอง 30 วัน&lt;br&gt;( BU + MTU )&lt;br&gt;คงเหลือ&lt;br&gt;50-100%" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="15" value="แบตเตอรี่สำรอง 30 วัน&lt;br&gt;( BU + MTU )&lt;br&gt;คงเหลือ&lt;br&gt;50-100%" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="249.75" y="420" width="140" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="27" value="Low, น้อย" style="text;fontStyle=0;html=1;strokeColor=none;gradientColor=none;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
@@ -106,7 +106,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6H0UAOoWNLqQX3c4M_eM-73" value="แบตเตอรี่สำรอง&lt;br&gt;มีการชาร์จกระแสไฟฟ้า&lt;br&gt;เป็นครั้งคราว&lt;br&gt;แนะนำให้ชาร์จสม่ำเสมอ" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="6H0UAOoWNLqQX3c4M_eM-73" value="แบตเตอรี่สำรอง&lt;br&gt;มีการชาร์จกระแสไฟฟ้า&lt;br&gt;เป็นครั้งคราว&lt;br&gt;แนะนำให้ชาร์จสม่ำเสมอ" style="shape=mxgraph.flowchart.document;strokeWidth=2;gradientDirection=north;fontStyle=0;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="449.75" y="717" width="140" height="103" as="geometry"/>
         </mxCell>
         <mxCell id="6H0UAOoWNLqQX3c4M_eM-76" value="วันที่&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Volt&lt;br&gt;&lt;br&gt;1 ม.ค.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;12.50&lt;br&gt;2 ม.ค.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;12.40&lt;br&gt;3 ม.ค.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;12.15&lt;br&gt;4 ม.ค.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;12.10&lt;br&gt;5 ม.ค.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;12.05&lt;br&gt;6 ม.ค.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;11.90" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#003366;dx=51;dy=27;align=left;verticalAlign=top;" parent="1" vertex="1">
